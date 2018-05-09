@@ -15,6 +15,35 @@ body {
 
 }
 
+#logo img {
+    width: 10vw;
+    height: 10vw;
+}
+
+#noter img {
+    width: 30vw;
+    height: 30vw;
+}
+
+#interview img {
+    width: 30vw;
+    height: 30vw;
+}
+
+#bruger img {
+    width: 30vw;
+    height: 30vw;
+}
+
+#map img {
+    width: 45vw;
+    height: 30vw;
+}
+
+#post img {
+    width: 45vw;
+    height: 30vw;
+}
 
 #persona img {
     width: 47vw;
