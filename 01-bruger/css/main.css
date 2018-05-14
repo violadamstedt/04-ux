@@ -55,6 +55,19 @@ body {
     height: 32vw;
 }
 
+#map2 img {
+    width: 30vw;
+    height: 30vw;
+}
+
+#timmi img {
+    width: 40vw;
+    height: 30vw;
+}
+
+#storyboard img {
+    width: 40vw;
+    height: 30vw;
 }
 
 img {
@@ -63,7 +76,7 @@ img {
 }
 
 
-}
+
 
 /* Navigation */
 
